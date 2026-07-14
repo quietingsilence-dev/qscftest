@@ -3,10 +3,22 @@
     <title>qstestsite</title>
     <link href="https://quietingsilence-dev.github.io/qscftest/feed.xml" rel="self" />
     <link href="https://quietingsilence-dev.github.io/qscftest" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2026-07-14T10:04:19-05:00</updated>
     <author>
         <name>qs</name>
     </author>
     <id>https://quietingsilence-dev.github.io/qscftest</id>
 
+    <entry>
+        <title>test post for blog</title>
+        <author>
+            <name>qs</name>
+        </author>
+        <link href="https://quietingsilence-dev.github.io/qscftest/test-post-for-blog.html"/>
+        <id>https://quietingsilence-dev.github.io/qscftest/test-post-for-blog.html</id>
+
+        <updated>2026-07-14T10:03:40-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
