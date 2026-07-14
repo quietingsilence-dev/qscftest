@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://quietingsilence-dev.github.io/qscftest/sitemap.xml
