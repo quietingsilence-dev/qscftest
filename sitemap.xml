@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://quietingsilence-dev.github.io/qscftest/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://qscftest.quietingsilence.workers.dev/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://quietingsilence-dev.github.io/qscftest/</loc>
+<loc>https://qscftest.quietingsilence.workers.dev/</loc>
 </url>
 <url>
-<loc>https://quietingsilence-dev.github.io/qscftest/about.html</loc>
+<loc>https://qscftest.quietingsilence.workers.dev/about.html</loc>
 <lastmod>2026-07-14T10:01:52-05:00</lastmod>
 </url>
 <url>
-<loc>https://quietingsilence-dev.github.io/qscftest/blog.html</loc>
+<loc>https://qscftest.quietingsilence.workers.dev/blog.html</loc>
 <lastmod>2026-07-14T10:02:11-05:00</lastmod>
 </url>
 <url>
-<loc>https://quietingsilence-dev.github.io/qscftest/home-page.html</loc>
+<loc>https://qscftest.quietingsilence.workers.dev/home-page.html</loc>
 <lastmod>2026-07-13T19:38:20-05:00</lastmod>
 </url>
 <url>
-<loc>https://quietingsilence-dev.github.io/qscftest/test-post-for-blog.html</loc>
+<loc>https://qscftest.quietingsilence.workers.dev/test-post-for-blog.html</loc>
 <lastmod>2026-07-14T10:04:19-05:00</lastmod>
 </url>
 </urlset>

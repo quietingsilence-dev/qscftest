@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "qstestsite",
     "description": "",
-    "home_page_url": "https://quietingsilence-dev.github.io/qscftest",
-    "feed_url": "https://quietingsilence-dev.github.io/qscftest/feed.json",
+    "home_page_url": "https://qscftest.quietingsilence.workers.dev",
+    "feed_url": "https://qscftest.quietingsilence.workers.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "qs"
     },
     "items": [
         {
-            "id": "https://quietingsilence-dev.github.io/qscftest/test-post-for-blog.html",
-            "url": "https://quietingsilence-dev.github.io/qscftest/test-post-for-blog.html",
+            "id": "https://qscftest.quietingsilence.workers.dev/test-post-for-blog.html",
+            "url": "https://qscftest.quietingsilence.workers.dev/test-post-for-blog.html",
             "title": "test post for blog",
             "author": {
                 "name": "qs"
