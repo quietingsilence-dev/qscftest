@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://qscftest.quietingsilence.workers.dev/sitemap.xml
