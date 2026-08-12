@@ -45,6 +45,10 @@
 </image:image>
 </url>
 <url>
+<loc>https://qscftest.quietingsilence.workers.dev/blog/</loc>
+<lastmod>2026-08-03T09:58:55-05:00</lastmod>
+</url>
+<url>
 <loc>https://qscftest.quietingsilence.workers.dev/booking/</loc>
 <lastmod>2026-07-14T11:49:41-05:00</lastmod>
 </url>
@@ -59,10 +63,6 @@
 <image:loc>https://qscftest.quietingsilence.workers.dev/media/posts/10/IMG_9193.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://qscftest.quietingsilence.workers.dev/home-page/</loc>
-<lastmod>2026-08-03T12:38:24-05:00</lastmod>
 </url>
 <url>
 <loc>https://qscftest.quietingsilence.workers.dev/maparam-ocarinas-are-overhyped/</loc>
@@ -91,9 +91,6 @@
 <url>
 <loc>https://qscftest.quietingsilence.workers.dev/resources/</loc>
 <lastmod>2026-08-04T13:25:01-05:00</lastmod>
-</url>
-<url>
-<loc>https://qscftest.quietingsilence.workers.dev/resources/blog/</loc>
 </url>
 <url>
 <loc>https://qscftest.quietingsilence.workers.dev/shop/</loc>
